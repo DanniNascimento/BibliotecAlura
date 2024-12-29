@@ -133,6 +133,8 @@ BibliotecAlura/
 │   └── test/                           # Testes unitários e de integração
 
 ```
+### STATUS
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 
 ### Contribuição
 
@@ -158,15 +160,12 @@ git push origin feature/nova-feature
 5. **Crie um pull request para revisão**.
 
 
-### STATUS
-<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
-
 ### Tutores do Projeto
 
-O desafio criado para aprimorar o conhecimento adquirido durante o curso de Java e SpringBoot Dev da Alura com o apoio dos seguintes tutores:
+**O desafio foi criado para aprimorar o conhecimento adquirido durante o curso de Java e SpringBoot Dev da Alura com o apoio dos seguintes tutores**:
 
-<div style="display: flex; gap: 20px;">
-  <div>
+<div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
+  <div style="text-align: center;">
     <a href="https://github.com/iasminaraujoc" target="_blank">
       <img loading="lazy" src="https://avatars.githubusercontent.com/u/84939115?v=4" width="115">
     </a>
@@ -174,7 +173,7 @@ O desafio criado para aprimorar o conhecimento adquirido durante o curso de Java
     <sub>Iasmin Araújo - Alura Scuba Team</sub>
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <a href="https://github.com/jacqueline-oliveira" target="_blank">
       <img loading="lazy" src="https://avatars.githubusercontent.com/u/66698429?v=4" width="115">
     </a>
@@ -183,8 +182,6 @@ O desafio criado para aprimorar o conhecimento adquirido durante o curso de Java
   </div>
 </div>
 
-  ### Autores
+### Autores
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/124941926?v=4" width=115><br><sub>Danni Nascimento Da Rocha</sub>](https://github.com/DanniNascimento)
-
-##
